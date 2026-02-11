@@ -1,8 +1,8 @@
 === Grid Shortcodes ===
 Contributors: spwebguy
-Tags: grid, columns, rows, shortcode, shortcodes, grid system, responsive, simple, editor, content, divide 
+Tags: grid, columns, rows, shortcode, shortcodes
 Requires at least: 3.6
-Tested up to: 6.5
+Tested up to: 6.9
 Stable tag: 1.1.1
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl.html
